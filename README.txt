@@ -13,3 +13,4 @@ Before launch:
 2. Replace any pricing that differs from your final offers.
 3. Add a real domain and business email if desired.
 4. Add your Google Business Profile link once the business is live.
+https://tdawggy.github.io/FreshCan-Co./
